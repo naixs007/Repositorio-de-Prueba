@@ -14,7 +14,7 @@
     <input type="text" placeholder="introduce tu nombre">
     <br>
     <br>
-    <input type="password">
+    <input type="password" placeholder="**********">
     <br>
     <br>
     <label for="">
