@@ -31,6 +31,7 @@
 
     <input type="checkbox"> se creo un nuevo checkbox
     <label for=""> un nuevo cambio en el label</label>
+    <label for=""> Esto es un LABEL y es de prueba</label> 
 </body>
 
 </html>
