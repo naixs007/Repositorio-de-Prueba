@@ -27,13 +27,7 @@
     <br>
 
     <button>Enviar</button>
-<<<<<<< HEAD
-    <label for=""> Esto es un LABEL y es de prueba</label> 
-=======
     <label for=""> Esto es un LABEL y es de prueba</label>
-    
-    <input type="checkbox"> se creo un nuevo checkbox
->>>>>>> rama-Bryan
 </body>
 
 </html>
