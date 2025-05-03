@@ -27,7 +27,9 @@
     <br>
 
     <button>Enviar</button>
-    <label for=""> Esto es un LABEL y es de prueba</label> 
+    <label for=""> Esto es un LABEL y es de prueba</label>
+    
+    <input type="checkbox"> se creo un nuevo checkbox
 </body>
 
 </html>
