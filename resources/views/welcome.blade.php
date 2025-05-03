@@ -27,7 +27,7 @@
     <br>
 
     <button>Enviar</button>
-    <label for=""> Esto es un LABEL</label> 
+    <label for=""> Esto es un LABEL y es de prueba</label> 
 </body>
 
 </html>
